@@ -26,3 +26,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/krishnendu-s-kar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px" /></a>
   <a href="https://twitter.com/shekhar861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" height="40px"/></a>
 </p> -->
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sekhar989&show_icons=true&count_private=true&include_all_commits=true&theme=nord" />
+</p>
